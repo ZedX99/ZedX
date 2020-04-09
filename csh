@@ -1,1 +1,1 @@
-showMessage("Lisence has been expired")
+closeCE()
